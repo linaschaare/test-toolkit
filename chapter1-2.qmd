@@ -1,0 +1,9 @@
+# Chapter 1.2 {.unnumbered}
+
+## This is chapter 1.2
+
+Here are some resources to learn about this topic:
+
+oops, nothing here yet
+
+The previous chapter is [Chapter 1.1](chapter1-1.qmd)

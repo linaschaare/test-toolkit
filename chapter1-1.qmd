@@ -1,0 +1,9 @@
+# Chapter 1.1 {.unnumbered}
+
+## This is chapter 1.1
+
+Here are some resources to learn about this topic:
+
+<https://github.com/bips-hb/DataTrainCausalLearning>
+
+The next chapter is [Chapter 1.2](chapter1-2.qmd)
