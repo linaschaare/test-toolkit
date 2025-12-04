@@ -19,3 +19,7 @@ The second chapter
 # Chapter 3 {.unnumbered}
 
 The third chapter
+
+# Chapter 4 {.unnumbered}
+
+The fourth chapter
